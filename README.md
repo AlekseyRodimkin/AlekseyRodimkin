@@ -1,6 +1,6 @@
-# Alexey Rodimkin
+# Aleksei Rodimkin
 
-Hello! My name is Alexey, and I am a developer specializing in Python. Here you will find my projects, experiments, and educational materials.
+Hello! My name is Aleksei, and I am a developer specializing in Python. Here you will find my projects, experiments, and educational materials.
 
 ## How to Contact Me
 
