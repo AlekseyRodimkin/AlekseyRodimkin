@@ -6,5 +6,4 @@
 ## How to Contact Me / Как со мной связаться
 
 - 📫 Email: alexeyrodimkin@gmail.com
-- 💬 Telegram: https://t.me/mr_dagestan
 - 🌐 GitHub: [My_profile](https://github.com/AlekseyRodimkin)
