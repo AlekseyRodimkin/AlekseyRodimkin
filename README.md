@@ -30,7 +30,9 @@
 | [Новостной портал](https://github.com/AlekseyRodimkin/Laravel_news) | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)|
 | [Соц. сеть клиент](https://github.com/AlekseyRodimkin/bloknot_social_client)|![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)|
 | [Соц. сеть бэк](https://github.com/AlekseyRodimkin/bloknot_social_back)||
-</div>
+| [Экспертная система](https://github.com/AlekseyRodimkin/expert_system)|![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)|
+
+
 
 ---
 
