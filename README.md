@@ -2,11 +2,6 @@
 
 - Привет! Меня зовут Алексей, я разработчик, специализирующийся на Python. Здесь вы найдете мои проекты, эксперименты и учебные материалы.
 
-| ![Stats](https://github-readme-stats.vercel.app/api?username=AlekseyRodimkin&show_icons=true&theme=radical&hide_title=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlekseyRodimkin&layout=compact&theme=radical&hide_title=true) |
-|-----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
-| ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlekseyRodimkin&theme=radical)                             | ![Trophy](https://github-profile-trophy.vercel.app/?username=AlekseyRodimkin&theme=radical&row=2&column=3)                                |
-</div>
-
 <br>
 
 ---
@@ -44,3 +39,10 @@
 - ✉️ **Email**: [alexeyrodimkin@gmail.com](mailto:alexeyrodimkin@gmail.com)
 - 💻 **GitHub**: [AlekseyRodimkin](https://github.com/AlekseyRodimkin)
 - 📱 **Telegram**: [@like_america](https://t.me/like_america)
+
+---
+
+  | ![Stats](https://github-readme-stats.vercel.app/api?username=AlekseyRodimkin&show_icons=true&theme=radical&hide_title=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlekseyRodimkin&layout=compact&theme=radical&hide_title=true) |
+|-----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlekseyRodimkin&theme=radical)                             | ![Trophy](https://github-profile-trophy.vercel.app/?username=AlekseyRodimkin&theme=radical&row=2&column=3)                                |
+
