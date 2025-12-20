@@ -6,7 +6,6 @@
 
 ---
 ## ⚙️ Основные проекты
-https://github.com/AlekseyRodimkin/warehouse/tree/main
 | Проект | Технологии | Ссылки |
 |--------|------------|--------|
 | **Система учета товара** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white) ![letsencrypt](https://img.shields.io/badge/Let's%20Encrypt-00A85E?logoColor=white) | [Код](https://github.com/AlekseyRodimkin/YouTubick)
