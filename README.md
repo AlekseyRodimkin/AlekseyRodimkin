@@ -21,7 +21,6 @@
 
 | Проект | Технологии |
 |----------------|------------------|
-
 | [Экспертная система](https://github.com/AlekseyRodimkin/expert_system) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
 | [Бэкенд для блога](https://github.com/AlekseyRodimkin/fastapi_blog) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql) ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white) ![Celery](https://img.shields.io/badge/Celery-37814A?logo=celery&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)|
 |[Блог_2](https://github.com/AlekseyRodimkin/flask_blog_2)  | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask) ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite)|
